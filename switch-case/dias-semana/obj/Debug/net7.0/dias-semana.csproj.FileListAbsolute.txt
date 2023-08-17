@@ -1,0 +1,15 @@
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\witch-case\dias-semana\bin\Debug\net7.0\dias-semana.exe
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\witch-case\dias-semana\bin\Debug\net7.0\dias-semana.deps.json
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\witch-case\dias-semana\bin\Debug\net7.0\dias-semana.runtimeconfig.json
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\witch-case\dias-semana\bin\Debug\net7.0\dias-semana.dll
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\witch-case\dias-semana\bin\Debug\net7.0\dias-semana.pdb
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\witch-case\dias-semana\obj\Debug\net7.0\dias-semana.csproj.AssemblyReference.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\witch-case\dias-semana\obj\Debug\net7.0\dias-semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\witch-case\dias-semana\obj\Debug\net7.0\dias-semana.AssemblyInfoInputs.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\witch-case\dias-semana\obj\Debug\net7.0\dias-semana.AssemblyInfo.cs
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\witch-case\dias-semana\obj\Debug\net7.0\dias-semana.csproj.CoreCompileInputs.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\witch-case\dias-semana\obj\Debug\net7.0\dias-semana.dll
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\witch-case\dias-semana\obj\Debug\net7.0\refint\dias-semana.dll
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\witch-case\dias-semana\obj\Debug\net7.0\dias-semana.pdb
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\witch-case\dias-semana\obj\Debug\net7.0\dias-semana.genruntimeconfig.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\witch-case\dias-semana\obj\Debug\net7.0\ref\dias-semana.dll
