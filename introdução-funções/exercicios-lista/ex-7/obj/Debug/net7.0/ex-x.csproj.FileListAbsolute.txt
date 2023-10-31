@@ -1,0 +1,15 @@
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-funcoes\exercicios-lista\ex-7\bin\Debug\net7.0\ex-x.exe
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-funcoes\exercicios-lista\ex-7\bin\Debug\net7.0\ex-x.deps.json
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-funcoes\exercicios-lista\ex-7\bin\Debug\net7.0\ex-x.runtimeconfig.json
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-funcoes\exercicios-lista\ex-7\bin\Debug\net7.0\ex-x.dll
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-funcoes\exercicios-lista\ex-7\bin\Debug\net7.0\ex-x.pdb
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-funcoes\exercicios-lista\ex-7\obj\Debug\net7.0\ex-x.csproj.AssemblyReference.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-funcoes\exercicios-lista\ex-7\obj\Debug\net7.0\ex-x.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-funcoes\exercicios-lista\ex-7\obj\Debug\net7.0\ex-x.AssemblyInfoInputs.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-funcoes\exercicios-lista\ex-7\obj\Debug\net7.0\ex-x.AssemblyInfo.cs
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-funcoes\exercicios-lista\ex-7\obj\Debug\net7.0\ex-x.csproj.CoreCompileInputs.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-funcoes\exercicios-lista\ex-7\obj\Debug\net7.0\ex-x.dll
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-funcoes\exercicios-lista\ex-7\obj\Debug\net7.0\refint\ex-x.dll
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-funcoes\exercicios-lista\ex-7\obj\Debug\net7.0\ex-x.pdb
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-funcoes\exercicios-lista\ex-7\obj\Debug\net7.0\ex-x.genruntimeconfig.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-funcoes\exercicios-lista\ex-7\obj\Debug\net7.0\ref\ex-x.dll

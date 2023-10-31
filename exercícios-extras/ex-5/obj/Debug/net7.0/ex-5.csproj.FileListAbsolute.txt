@@ -1,0 +1,15 @@
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\exercícios-extras\ex-5\bin\Debug\net7.0\ex-5.exe
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\exercícios-extras\ex-5\bin\Debug\net7.0\ex-5.deps.json
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\exercícios-extras\ex-5\bin\Debug\net7.0\ex-5.runtimeconfig.json
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\exercícios-extras\ex-5\bin\Debug\net7.0\ex-5.dll
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\exercícios-extras\ex-5\bin\Debug\net7.0\ex-5.pdb
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\exercícios-extras\ex-5\obj\Debug\net7.0\ex-5.csproj.AssemblyReference.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\exercícios-extras\ex-5\obj\Debug\net7.0\ex-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\exercícios-extras\ex-5\obj\Debug\net7.0\ex-5.AssemblyInfoInputs.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\exercícios-extras\ex-5\obj\Debug\net7.0\ex-5.AssemblyInfo.cs
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\exercícios-extras\ex-5\obj\Debug\net7.0\ex-5.csproj.CoreCompileInputs.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\exercícios-extras\ex-5\obj\Debug\net7.0\ex-5.dll
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\exercícios-extras\ex-5\obj\Debug\net7.0\refint\ex-5.dll
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\exercícios-extras\ex-5\obj\Debug\net7.0\ex-5.pdb
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\exercícios-extras\ex-5\obj\Debug\net7.0\ex-5.genruntimeconfig.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\exercícios-extras\ex-5\obj\Debug\net7.0\ref\ex-5.dll
