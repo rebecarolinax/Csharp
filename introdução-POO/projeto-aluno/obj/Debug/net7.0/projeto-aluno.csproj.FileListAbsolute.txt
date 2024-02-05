@@ -1,0 +1,15 @@
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-poo\projeto-aluno\bin\Debug\net7.0\projeto-aluno.exe
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-poo\projeto-aluno\bin\Debug\net7.0\projeto-aluno.deps.json
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-poo\projeto-aluno\bin\Debug\net7.0\projeto-aluno.runtimeconfig.json
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-poo\projeto-aluno\bin\Debug\net7.0\projeto-aluno.dll
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-poo\projeto-aluno\bin\Debug\net7.0\projeto-aluno.pdb
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-poo\projeto-aluno\obj\Debug\net7.0\projeto-aluno.csproj.AssemblyReference.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-poo\projeto-aluno\obj\Debug\net7.0\projeto-aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-poo\projeto-aluno\obj\Debug\net7.0\projeto-aluno.AssemblyInfoInputs.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-poo\projeto-aluno\obj\Debug\net7.0\projeto-aluno.AssemblyInfo.cs
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-poo\projeto-aluno\obj\Debug\net7.0\projeto-aluno.csproj.CoreCompileInputs.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-poo\projeto-aluno\obj\Debug\net7.0\projeto-aluno.dll
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-poo\projeto-aluno\obj\Debug\net7.0\refint\projeto-aluno.dll
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-poo\projeto-aluno\obj\Debug\net7.0\projeto-aluno.pdb
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-poo\projeto-aluno\obj\Debug\net7.0\projeto-aluno.genruntimeconfig.cache
+C:\Users\54931473865\Desktop\primeiro-semestre\primeiro-semestre\backend-1\introducao-poo\projeto-aluno\obj\Debug\net7.0\ref\projeto-aluno.dll
